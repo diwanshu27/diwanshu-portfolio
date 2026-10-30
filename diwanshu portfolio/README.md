@@ -5,6 +5,7 @@ A responsive portfolio website customized for Diwanshu Singhal and aligned with 
 ## Profile
 - Name: Diwanshu Singhal
 - GitHub: https://github.com/diwanshu27
+- View My Profile:https://v0.app/diwanshu27/chat/snWHjgtqqrk
 - Education and specialization: confirm the exact institution and course details with Diwanshu before final submission.
 
 ## Technologies
